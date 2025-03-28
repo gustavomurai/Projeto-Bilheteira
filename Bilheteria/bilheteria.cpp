@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Código Realizado em dupla por Gustavo Murai e Igor Murai
+
 #define FILEIRAS 15
 #define POLTRONAS 40
 
